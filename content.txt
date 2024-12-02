@@ -1,0 +1,19 @@
+# Header Content
+
+- Logo: pl + icon + y
+
+- Navbar Links: Home | Trending | Collections | Categories | Contact
+
+- Sign Up Link (As A Button)
+
+# Hero Content
+
+- Hero Image: header.jpq
+
+- First Heading: CREATE PLAYLIST & SHARE IT WITH YOUR FRIENDS
+
+- Second Heading: MUSIC FOR YOUR CURRENT MOOD
+
+- Hero Description: Discover the perfect soundtrack for every moment with our 'Music for Your Current Mood' section. Whether you're feeling upbeat, reflective, or somewhere in between, explore curated playlists and tunes tailored to match your mood.
+
+- Call To Action: "google-play.jpg" + "app-store.jpg" As Links
