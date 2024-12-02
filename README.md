@@ -41,7 +41,7 @@ To run this project locally:
 1. Clone this repository:
 
    ```bash
-     git clone https://github.com/onepiece-coding/Animated-Landing-Page-Using-HTML-CSS-JavaScript.git
+   git clone https://github.com/onepiece-coding/Animated-Landing-Page-Using-HTML-CSS-JavaScript.git
    ```
    
 2. Open the index.html file in your browser.
