@@ -24,7 +24,7 @@ This project is an **Animated Landing Page** designed for a music platform. It p
 
 ## 📂 Project Structure
 
-├── 📂 assets │
+├── 📂 assets
 
 ├── index.html 
 
@@ -41,7 +41,7 @@ To run this project locally:
 1. Clone this repository:
 
    ```bash
-     git clone https://github.com/yourusername/animated-landing-page.git
+     git clone https://github.com/onepiece-coding/Animated-Landing-Page-Using-HTML-CSS-JavaScript
    ```
    
 2. Open the index.html file in your browser.
